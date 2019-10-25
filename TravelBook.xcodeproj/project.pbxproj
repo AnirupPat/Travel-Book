@@ -14,6 +14,7 @@
 		2B30044C235505A600910D3D /* TravelBook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2B30044A235505A600910D3D /* TravelBook.xcdatamodeld */; };
 		2B30044E235505AA00910D3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B30044D235505AA00910D3D /* Assets.xcassets */; };
 		2B300451235505AA00910D3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B30044F235505AA00910D3D /* LaunchScreen.storyboard */; };
+		2B6AA0F5235F976B00E71896 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B6AA0F4235F976B00E71896 /* ListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2B30044D235505AA00910D3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2B300450235505AA00910D3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2B300452235505AA00910D3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B6AA0F4235F976B00E71896 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				2B300441235505A600910D3D /* AppDelegate.swift */,
 				2B300443235505A600910D3D /* SceneDelegate.swift */,
 				2B300445235505A600910D3D /* ViewController.swift */,
+				2B6AA0F4235F976B00E71896 /* ListViewController.swift */,
 				2B300447235505A600910D3D /* Main.storyboard */,
 				2B30044D235505AA00910D3D /* Assets.xcassets */,
 				2B30044F235505AA00910D3D /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				2B30044C235505A600910D3D /* TravelBook.xcdatamodeld in Sources */,
 				2B300446235505A600910D3D /* ViewController.swift in Sources */,
 				2B300442235505A600910D3D /* AppDelegate.swift in Sources */,
+				2B6AA0F5235F976B00E71896 /* ListViewController.swift in Sources */,
 				2B300444235505A600910D3D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
